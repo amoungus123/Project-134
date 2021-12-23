@@ -1,0 +1,57 @@
+
+.heading
+{
+font-size: 40px;
+width: 100%;
+margin: 0px;
+}
+
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 10px;
+}
+
+#bed_room {
+    font-size: 20px;
+    margin-top: 10px;
+    background-color: white;
+    box-shadow: 5px 5px 5px lightgrey;
+    border-radius: 10px;
+}
+
+#TV {
+    font-size: 20px;
+    margin-top: 10px;
+    background-color: white;
+    box-shadow: 5px 5px 5px lightgrey;
+    border-radius: 10px;
+}
+
+#Desk {
+    font-size: 20px;
+    margin-top: 10px;
+    background-color: white;
+    box-shadow: 5px 5px 5px lightgrey;
+    border-radius: 10px;
+}
+
+#Bottle  {
+    font-size: 20px;
+    margin-top: 10px;
+    background-color: white;
+    box-shadow: 5px 5px 5px lightgrey;
+    border-radius: 10px;
+}
+
+#Basket {
+    font-size: 20px;
+    margin-top: 10px;
+    background-color: white;
+    box-shadow: 5px 5px 5px lightgrey;
+    border-radius: 10px;
+}
